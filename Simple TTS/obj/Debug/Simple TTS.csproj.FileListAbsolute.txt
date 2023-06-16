@@ -1,0 +1,10 @@
+G:\Future\Simple TTS\Simple TTS\bin\Debug\Simple TTS.exe.config
+G:\Future\Simple TTS\Simple TTS\bin\Debug\Simple TTS.exe
+G:\Future\Simple TTS\Simple TTS\bin\Debug\Simple TTS.pdb
+G:\Future\Simple TTS\Simple TTS\obj\Debug\Simple TTS.csproj.AssemblyReference.cache
+G:\Future\Simple TTS\Simple TTS\obj\Debug\Simple_TTS.Form1.resources
+G:\Future\Simple TTS\Simple TTS\obj\Debug\Simple_TTS.Properties.Resources.resources
+G:\Future\Simple TTS\Simple TTS\obj\Debug\Simple TTS.csproj.GenerateResource.cache
+G:\Future\Simple TTS\Simple TTS\obj\Debug\Simple TTS.csproj.CoreCompileInputs.cache
+G:\Future\Simple TTS\Simple TTS\obj\Debug\Simple TTS.exe
+G:\Future\Simple TTS\Simple TTS\obj\Debug\Simple TTS.pdb
